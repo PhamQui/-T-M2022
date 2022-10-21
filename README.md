@@ -3,7 +3,7 @@
   - 20110543 Thái Hoàng Phúc
   - 20110079 Phạm Nguyễn Phú Quí
 # Tên đề tài: 
-  - Amazon SageMaker
+  - Tìm hiểu Amazon SageMaker và xây dựng ứng dụng minh họa.
 # Chức năng:
 # Dịch vụ:
 - AWS S3
