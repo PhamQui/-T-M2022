@@ -6,12 +6,6 @@
   - Amazon SageMaker
 # Chức năng:
 # Dịch vụ:
-- AWS S3:
-Store training data, 
-Store pre-trained model
-- AWS SageMaker:
-Data Wrangling, 
-Training, 
-Deploy Endpoint
-- AWS EC2:
-Deploy streamlit webapp
+- AWS S3
+- AWS SageMaker
+- AWS EC2
