@@ -4,7 +4,7 @@
   - 20110079 Phạm Nguyễn Phú Quí
 # Tên đề tài: 
   - XÂY DỰNG ỨNG DỤNG NHẬN DIỆN TÊN TRONG CHỨNG MINH NHÂN DÂN ỨNG DỤNG AWS SAGEMAKER
-# Dịch vụ:
+## 1. Dịch vụ sử dụng:
 - AWS S3: Store data 
 - AWS SageMaker:
 - AWS EC2: Deploy streamlit webapp
