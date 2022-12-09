@@ -11,3 +11,4 @@
 ## 2. Quy trình
 
 ## 3. Kết quả
+![](./assets/8cadef61fae123bf7af0.jpg)
