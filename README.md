@@ -3,7 +3,7 @@
   - 20110543 Thái Hoàng Phúc
   - 20110079 Phạm Nguyễn Phú Quí
 # Tên đề tài: 
-  - Tìm hiểu Amazon SageMaker và xây dựng ứng dụng minh họa.
+  - XÂY DỰNG ỨNG DỤNG NHẬN DIỆN TÊN TRONG CHỨNG MINH NHÂN DÂN ỨNG DỤNG AWS SAGEMAKER
 # Dịch vụ:
 - AWS S3
 - AWS SageMaker
