@@ -10,4 +10,4 @@
 - AWS EC2: Deploy streamlit webapp
 ## 2. Quy trình
 
-## Kết quả
+## 3. Kết quả
