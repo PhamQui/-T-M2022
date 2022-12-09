@@ -6,7 +6,7 @@
   - XÂY DỰNG ỨNG DỤNG NHẬN DIỆN TÊN TRONG CHỨNG MINH NHÂN DÂN ỨNG DỤNG AWS SAGEMAKER
 ## 1. Dịch vụ sử dụng:
 - AWS S3: Store data 
-- AWS SageMaker:
+- AWS SageMaker: build - train - deploy
 - AWS EC2: Deploy streamlit webapp
 ## 2. Quy trình
 
