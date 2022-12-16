@@ -12,6 +12,6 @@
 - AWS SageMaker: build - train - deploy
 - AWS EC2: Deploy streamlit webapp
 ## 2. Quy trình
-
+![](./assets/b2211d5d13d8ca8693c9.jpg)
 ## 3. Kết quả
 ![](./assets/8cadef61fae123bf7af0.jpg)
